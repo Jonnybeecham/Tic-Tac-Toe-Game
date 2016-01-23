@@ -1,0 +1,1 @@
+java -cp ..\build\lib\TicTacToe 1.0.jar;C:\RobotFramework\fobotframework-2.9.jar org.robotframework.RobotFramework TicTacToeTests.txt
